@@ -1,4 +1,7 @@
+.header-layout {
+  height: 50px;
+  position: absolute;
+}
 .header-wrapper {
-    display: flex;
-    position: absolute;
+  display: flex;
 }

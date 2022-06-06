@@ -1,14 +1,15 @@
 import React from "react";
 import Dropdown from "../components/Dropdown";
+import "./Introduction.css";
 
 const Introduction = () => {
-    return (
-        <div>
-            <div>개요</div>
-            <div></div>
-            <Dropdown />
-        </div>
-    );
+  return (
+    <div className="content">
+      <div></div>
+      <Dropdown />
+      asdzxcasdasd
+    </div>
+  );
 };
 
 export default Introduction;
