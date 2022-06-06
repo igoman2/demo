@@ -1,0 +1,18 @@
+.background {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0) 50%, #3e3b3b 100%),
+        url("../assets/intro.svg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+}
+/* .background:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to top, transparent 90%, black 100%);
+} */
