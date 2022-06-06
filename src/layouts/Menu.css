@@ -1,8 +1,7 @@
 .menu {
-  padding-top: 50px;
-  position: absolute;
-  display: flex;
-  width: 100%;
-  justify-content: space-evenly;
-  height: 40px;
+    position: absolute;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    height: 40px;
 }
